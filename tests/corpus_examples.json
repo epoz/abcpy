@@ -1,0 +1,78 @@
+[
+ {
+  "abc": "T: New Exercise\nM: C\nL: 1/4\nK: C\nV: 1 name=\"Alto\\n[species 2]\\n[Sop.]\"\n\"^1\"c2\"^2\u2192\"G2|B2d2|B2\"^5\u2192\\n6\u2192\".(A2|C4)|\nV: 2 clef=treble-8 name=\"Tenor\\n[c.f.]\\n[Alt.]\"\n\"^4. Consecutive leaps - - -\"c4|e4|d4|c4|\nW: Set this line's fill to none to make space for annotations below the staff.\n      ",
+  "params": {}
+ },
+ {
+  "abc": "X:1\nL:1/4\nM:4/4\nK:G\nBAGA|BBB2|\n      ",
+  "params": {}
+ },
+ {
+  "abc": "X: 1\nT: Cooley's\nM: 4/4\nL: 1/8\nR: reel\nK: Em\nV: Melody\n|:D2|EB{c}BA B2 EB|~B2 AB dBAG|FDAD BDAD|FDAD dAFD|\nEBBA B2 EB|B2 AB defg|afe^c dBAF|DEFD E2:|\n|:gf|eB B2 efge|eB B2 gedB|A2 FA DAFA|A2 FA defg|\neB B2 eBgB|eB B2 defg|afe^c dBAF|DEFD E2:|\n    ",
+  "params": {}
+ },
+ {
+  "abc": "X:1\nT: Sonata (fragment)\nC: J.S. Bach\nM: C\nL: 1/8\nK:C\n[V:1] c/gf/ E/ed/ c/c'b/ A/ag/ | ^f/e/d- d/(c/B/A/) G/(e/c/e/) Aa| d2-d/g/_b/a/ a3 g/=f/|\n[V:2] c8- | cB/A/ {A}B>c (e/c/A/c/) (E//^F//E//F//TF3//E///F///) | G/(D/G/A/) _B/G/g/e/ ^cA d2|\n[V:3] edcB AG^FE | D^FGg c3d/c/| _BG g2-gf/e/ f>g|",
+  "params": {}
+ },
+ {
+  "abc": "X: 1\nT: Cooley's\nM: 4/4\nL: 1/8\nR: reel\nK: Emin\n|:D2|EB{c}BA B2 EB|~B2 AB dBAG|FDAD BDAD|FDAD dAFD|\nEBBA B2 EB|B2 AB defg|afe^c dBAF|DEFD E2:|\n|:gf|eB B2 efge|eB B2 gedB|A2 FA DAFA|A2 FA defg|\neB B2 eBgB|eB B2 defg|afe^c dBAF|DEFD E2:|\n    ",
+  "params": {}
+ },
+ {
+  "abc": "X:1\nT:Bill Bailey\nM:4/4\nL:1/4\nQ:1/4=210\nK:C\n\"C\"GA2c|e3/2^d/2eg|GA2c|e4|GA2c|e2g2|\"G7\"(gB3-|B4)|\nGB2d|fefg|GB2d|f4|GB2d|g2\"G+\"a2|\"C\"(ae3-|e4)|\nGA2c|e3/2^d/2eg|GA2c|e3G|GGce|g2_b2|\"F\"a2-a2-|a3c|\ncc2c|\"F#dim7\"d2c2|\"C\"gg2a|\"A7\"e3e|\"D7\"ed^cd|\"G7\"f2e2|\"C\"c4-|czz2|]",
+  "params": {}
+ },
+ {
+  "abc": "X:1\nT:All Notes On Piano\nM:4/4\nQ:120\nL:1/4\nK:C clef=bass\nA,,,,^A,,,,B,,,,C,,,|^C,,,D,,,^D,,,E,,,|F,,,^F,,,G,,,^G,,,|A,,,^A,,,B,,,C,,|\n^C,,D,,^D,,E,,|F,,^F,,G,,^G,,|A,,^A,,B,,C,|^C,D,^D,E,|\nK:C clef=treble\nF,^F,G,^G,|A,^A,B,C|^CD^DE|F^FG^G|\nA^ABc|^cd^de|f^fg^g|a^abc'|\n^c'd'^d'e'|f'^f'g'^g'|a'^a'b'c''|^c''d''^d''e''|\nf''^f''g''^g''|a''^a''b''c'''|^c'''4|]",
+  "params": {}
+ },
+ {
+  "abc": "X: 1\nT: Cooley's\nM: 4/4\nL: 1/8\nR: reel\nK: Em\nV: Melody\n|:D2|EB{c}BA B2 EB|~B2 AB dBAG|FDAD BDAD|FDAD dAFD|\nEBBA B2 EB|B2 AB defg|afe^c dBAF|DEFD E2:|\n|:gf|eB B2 efge|eB B2 gedB|A2 FA DAFA|A2 FA defg|\neB B2 eBgB|eB B2 defg|afe^c dBAF|DEFD E2:|",
+  "params": {}
+ },
+ {
+  "abc": "X:1\nT:\u0645\u062c\u0646\u0648\u0646 \u0646\u0628\u0648\u062f\u0645\nR:Moderato \nQ:1/4=112\nL:1/4\nM:2/4\nK: Bb _/A\nF/G/ G/G/ | Gd|c/d/ B/c/|cd|c/d/ B/c/|\nBc|B/c/ A/B/|Gz|F,/G,/ G,/G,/|G,D| \nC/D/ B,/C/| CD|C/D/ B,/C/|B,C|B,/C/ A,/B,/|\nG,z/D/|CB,/C/|B, z/D/|CB,/C/|B,zD/|\nCB,/C/|A,z/C/|B,A,/B,/|A,G,|:F/G//G// G/G/|\nGd|c/c//d// B/c/|cd|c/c//d// B/c/|Bc|\nB/B//c// A/B/ |1Gz:|2G z/d/||cB/c/|Bz/d/|\ncB/c/|Bz/d/|cB/c/|A z/c/|BA/B/|\nAG/C/|Gz|]",
+  "params": {}
+ },
+ {
+  "abc": "X: 1\nT: Cooley's\nM: 4/4\nL: 1/8\nR: reel\nK: Emin\n|:D2|EB{c}BA B2 EB|~B2 AB dBAG|FDAD BDAD|FDAD dAFD|\nEBBA B2 EB|B2 AB defg|afe^c dBAF|DEFD E2:|\n|:gf|eB B2 efge|eB B2 gedB|A2 FA DAFA|A2 FA defg|\neB B2 eBgB|eB B2 defg|afe^c dBAF|DEFD E2:|\n|:D2|EB{c}BA B2 EB|~B2 AB dBAG|FDAD BDAD|FDAD dAFD|\nEBBA B2 EB|B2 AB defg|afe^c dBAF|DEFD E2:|\n|:gf|eB B2 efge|eB B2 gedB|A2 FA DAFA|A2 FA defg|\neB B2 eBgB|eB B2 defg|afe^c dBAF|DEFD E2:|\n|:D2|EB{c}BA B2 EB|~B2 AB dBAG|FDAD BDAD|FDAD dAFD|\nEBBA B2 EB|B2 AB defg|afe^c dBAF|DEFD E2:|\n|:gf|eB B2 efge|eB B2 gedB|A2 FA DAFA|A2 FA defg|\neB B2 eBgB|eB B2 defg|afe^c dBAF|DEFD E2:|\n|:D2|EB{c}BA B2 EB|~B2 AB dBAG|FDAD BDAD|FDAD dAFD|\nEBBA B2 EB|B2 AB defg|afe^c dBAF|DEFD E2:|\n|:gf|eB B2 efge|eB B2 gedB|A2 FA DAFA|A2 FA defg|\neB B2 eBgB|eB B2 defg|afe^c dBAF|DEFD E2:|\n        ",
+  "params": {}
+ },
+ {
+  "abc": "X:1\nT:Andro Guitar\nM: 2/4\nK:F\n|: [DD,]EFG [A2A,]AG | [F2G,]ED [A,A]BAG | [FD,]EFG [A2D,]AAG | [F2G,]ED [A,4EA]:|\nw: ros si gno let du bois jo li quand il s'a git des a mou reux\n|: [F2B,]GA [F3B,]A |[GA,]FEG [F2A,2]ED | [F2G,]GA [F3G,]A |[GA,]FEF [D4D,] :|\nw: vas t'en lui por ter u ne le ttre\n    ",
+  "params": {}
+ },
+ {
+  "abc": "X:1\nT:Andro Guitar\nM: 2/4\nK:F\n|: [EE,]^FGA [B2B,]BA | [G2A,]^FE [B,B]^cBA | [G2A,]^FE [B,4^FB]:| ",
+  "params": {}
+ },
+ {
+  "abc": "X: 1\nT: Cooley's\nM: 4/4\nL: 1/8\nR: reel\nK: G\n|:D2|EB{c}BA B2 EB|~B2 AB dBAG|FDAD BDAD|FDAD dAFD|\nEBBA B2 EB|B2 AB defg|afe^c dBAF|DEFD E2:|\n|:gf|eB B2 efge|eB B2 gedB|A2 FA DAFA|A2 FA defg|\neB B2 eBgB|eB B2 defg|afe^c dBAF|DEFD E2:|",
+  "params": {}
+ },
+ {
+  "abc": "X:1\nT:Home On The Range\nM:3/4\nL:1/4\nK:C clef=alto\nG,|G,CE|E2 C/B,/|A,3/2 F/F|F2|]\t",
+  "params": {}
+ },
+ {
+  "abc": "X:1\nT: Sleepers Awake\nM: C\nL: 1/4\nK: G\nV:S name=\"Violin I\"\nV:A name=\"Violin II\"\nV:T name=\"Viola\" clef=alto\nV:B name=\"Cello\" clef=bass\n%\nV:S\nD/|G//A//B/ B/A/ c/B/ D/C/ |: B//G//A/ C/B,/ F/G/ z|D/E/E/F/ F/G/ G,|\nV:A\nz/|DEFG|:D2B,z/D/|G//A//B/ B/A/ c/B/ D/C/|\nV:T\nz/|B,CDG,|:G,F,G,z|B,CDG/G,/|\nV:B\nz/|G,,G,,G,,B,,|:C,D,G,,z|G,,G,,G,,B,,|",
+  "params": {}
+ },
+ {
+  "abc": "X:1\nT: Cooley's\nM: 4/4\nL: 1/8\nR: reel\nK: Emin\n|:D2|EB{c}BA B2 EB|~B2 AB dBAG|FDAD BDAD|FDAD dAFD|\nEBBA B2 EB|B2 AB defg|afe^c dBAF|DEFD E2:|\n|:gf|eB B2 efge|eB B2 gedB|A2 FA DAFA|A2 FA defg|\neB B2 eBgB|eB B2 defg|afe^c dBAF|DEFD E2:|\n\nX:2\nT: Greensleeves\nM: 6/8\nL: 1/8\nK: Ador\nA|c2d e>fe|d2B G>AB|c2A A>GA|B2GE2|\nA|c2d e>fe|d2B G>AB|c>BA ^G>FG|A3A2:|\nz|g2g gfe|d2B G>AB|c2A A>GA|B6|\ng2g gfe|d2B G>AB|c>BA ^G>FG|A3A2:|\nA/B/|c2c cde|dBG GAB|cBA ABc|BGE E2 A/B/|\nc2c cde|dBG GAB|cBA GE^G|A3A2:|\ne/f/|gag gfe|dBG GBd|aba aba|gee e2e/f/|\ngag gfe|dBG GAB|cBA GE^G|A3A2:|",
+  "params": {}
+ },
+ {
+  "abc": "%%staffwidth 600\n\nX:100\nT: Cooley's\nM: 4/4\nL: 1/8\nR: reel\nK: Emin\n|:D2|EB{c}BA B2 EB|~B2 AB dBAG|FDAD BDAD|FDAD dAFD|^\nEBBA B2 EB|B2 AB defg|afe^c dBAF|DEFD E2:|\n|:gf|eB B2 efge|eB B2 gedB|A2 FA DAFA|A2 FA defg|\neB B2 eBgB|eB B2 defg|afe^c dBAF|DEFD E2:|\n\nX:101\nT: Mary\nM: 4/4\nL: 1/4\nK: D\nfede|fff2|eee2|ffa2|\nfede|ffff|eefe|d4|@",
+  "params": {}
+ },
+ {
+  "abc": "X:128\nT:The Labours of Marlow\nM:C|\nL:1/8\nC:\u00a9 Paul Gitlitz 1992\nR:Reel\nB:Giblitz Fancy\nN: Written for the birth of Jessica, my second Godchild.\nK:Am\n\"Am\"G,A, E2 [A,4E4]|\"G\"G3D G,A, (3B,A,G,|\"Am\"G,A, E2 [A,4E4]|\"G\"G^FGD G,A, (3B,A,G,|!\n\"Am\"G,A, E2 [A,4E4]|\"G\"G3D G,A, (3B,A,G,|\"C\"CB,CD EGED|CG,B,G, \"Am\"[A,4E4]:|!\n|:\"A\"e a2 b aged|\"Em\"ede^f \"G\"gfed|\"A\"e a2 b aged|\"D\"ed^fd \"G\"g4|!\n\"A\"ea2b aged|\"Em\"ede^f \"G\"gfed|\"C\"cBcd \"G\"egag|\"Em\"edBc \"Am\"A4:|]",
+  "params": {}
+ },
+ {
+  "abc": "X:1\nT:Ciaran \ufffd Raghallaigh\nT:Master Seamus\nC:Charlie Lennon\nM:4/4\nL:1/8\nZ:Ted Hastings\nK:G\nB,C|DB, ~B,2 DGBG|FC ~C2 EGcG|FD ~D2 FAdc|edcd BGEG|\nDG,B,D GB,DG|ECDE GCEG|FADF AcBA|1 GFAF G2:|2 GEDB, G,2||\nBc|dggf gdBd|eccB ceag|fddc dfc'b|agfe dcBc|\nd2 Bd gdBd|~c2 Bc ABAF|EccB cBAG|FDCA, G,2:||",
+  "params": {}
+ }
+]

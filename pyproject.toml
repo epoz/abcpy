@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "abcpy"
+version = "0.1.0"
+description = "Read, parse, transpose and engrave ABC music notation (a Python port of abcjs)"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [{ name = "abcpy contributors" }]
+keywords = ["abc", "music", "notation", "sheet music", "svg", "midi"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Topic :: Multimedia :: Sound/Audio :: MIDI",
+    "Topic :: Artistic Software",
+]
+
+[project.scripts]
+abcpy = "abcpy.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["abcpy*"]
